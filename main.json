@@ -33,16 +33,16 @@
 
   "cta_buttons": [
     {
-      type: "primary",
-      label: "Know More",
-      href: "https://void.ac",
-      icon: "BiMerge",
+      "type": "primary",
+      "label": "Know More",
+      "href": "https://void.ac",
+      "icon": "BiMerge",
     },
     {
-      type: "secondary",
-      label: "Get in touch",
-      href: "https://x.com/ibuild",
-      icon: "BI Send",
+      "type": "secondary",
+      "label": "Get in touch",
+      "href": "https://x.com/ibuild",
+      "icon": "BI Send",
     }
   ],
   
