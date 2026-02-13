@@ -29,14 +29,23 @@
 
   "desc_2": "won't be adding every framework here but i can handle everything from core app logic to data and api layer, scaling, security, devops, integrations and more.",
   "desc_3": "wanna hire a over obsessed dev who learns fast and adapt quick with new tech and ppl? try hittin the right button below",
-  "cta_primary": {
-    "label": "Know More",
-    "href": "https://void.ac"
-  },
-  "cta_secondary": {
-    "label": "Get in touch",
-    "href": "https://x.com/ibuild"
-  },
+
+
+  cta_buttons: [
+    {
+      type: "primary",
+      label: "Know More",
+      href: "https://void.ac",
+      icon: "BiMerge",
+    },
+    {
+      type: "secondary",
+      label: "Get in touch",
+      href: "https://x.com/ibuild",
+      icon: "BI Send",
+    },
+  ],
+  
   "social_links": [
     { "type": "SI Facebook", "label": "Facebook", "href": "https://x.com/ibuild" },
     { "type": "github", "label": "GitHub", "href": "https://github.com/2xbuild" }
