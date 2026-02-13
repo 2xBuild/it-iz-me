@@ -6,25 +6,11 @@
   "desc_1": "i build stuff with",
 "tech_stack": [
   { "iconName": "SI Typescript", "visibleName": "TypeScript" },
-  { "iconName": "SI Javascript", "visibleName": "JavaScript" },
   { "iconName": "SI React", "visibleName": "React" },
-  { "iconName": "SI Nextdotjs", "visibleName": "Next.js" },
-  { "iconName": "SI Redux", "visibleName": "Redux" },
-  { "iconName": "SI Nodedotjs", "visibleName": "Node.js" },
-  { "iconName": "SI Express", "visibleName": "Express" },
-  { "iconName": "SI Bun", "visibleName": "Bun" },
-  { "iconName": "SI Python", "visibleName": "Python" },
-  { "iconName": "SI Fastapi", "visibleName": "FastAPI" },
-  { "iconName": "SI Postgresql", "visibleName": "PostgreSQL" },
-  { "iconName": "SI Mongodb", "visibleName": "MongoDB" },
-  { "iconName": "SI Prisma", "visibleName": "Prisma" },
-  { "iconName": "SI Redis", "visibleName": "Redis" },
-  { "iconName": "SI Docker", "visibleName": "Docker" },
-  { "iconName": "SI Kubernetes", "visibleName": "Kubernetes" },
-  { "iconName": "SI Github", "visibleName": "GitHub" },
-  { "iconName": "SI Git", "visibleName": "Git" },
-  { "iconName": "SI Vercel", "visibleName": "Vercel" },
-  { "iconName": "SI Amazonwebservices", "visibleName": "AWS" }
+    { "iconName": "SI Bun", "visibleName": "Bun" },
+    { "iconName": "SI Python", "visibleName": "Python" }
+
+ 
 ],
 
   "desc_2": "won't be adding every framework here but i can handle everything from core app logic to data and api layer, scaling, security, devops, integrations and more.",
@@ -36,7 +22,7 @@
       "type": "primary",
       "label": "Know More",
       "href": "https://void.ac",
-      "icon": "BiMerge"
+      "icon": "BiFileText"
     },
     {
       "type": "secondary",
@@ -47,7 +33,7 @@
   ],
   
   "social_links": [
-    { "type": "SI Facebook", "label": "Facebook", "href": "https://x.com/ibuild" },
+    { "type": "SI X", "label": "X", "href": "https://x.com/ibuild" },
     { "type": "github", "label": "GitHub", "href": "https://github.com/2xbuild" }
   ]
 }
