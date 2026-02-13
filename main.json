@@ -1,5 +1,5 @@
 {
-  "img": "/void.png",
+  "img": "https://raw.githubusercontent.com/2xBuild/it-iz-me/refs/heads/main/void.png",
   "img_alt": "Profile photo",
   "heading_bold": "hi there, i'm void",
   "heading_light": ": a full stack web developer.",
