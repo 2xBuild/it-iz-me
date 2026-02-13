@@ -31,7 +31,7 @@
   "desc_3": "wanna hire a over obsessed dev who learns fast and adapt quick with new tech and ppl? try hittin the right button below",
 
 
-  cta_buttons: [
+  "cta_buttons": [
     {
       type: "primary",
       label: "Know More",
