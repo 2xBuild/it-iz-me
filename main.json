@@ -16,7 +16,7 @@
     "href": "https://x.com/ibuild"
   },
   "social_links": [
-    { "type": "x", "label": "X", "href": "https://x.com/ibuild" },
+    { "type": "bifacebook", "label": "X", "href": "https://x.com/ibuild" },
     { "type": "github", "label": "GitHub", "href": "https://github.com/2xbuild" }
   ]
 }
