@@ -19,13 +19,13 @@
 
   "cta_buttons": [
     {
-      "type": "primary",
+      "type": "secondary",
       "label": "Know More",
       "href": "https://void.ac",
       "icon": "BiFileText"
     },
     {
-      "type": "secondary",
+      "type": "primary",
       "label": "Get in touch",
       "href": "https://x.com/ibuild",
       "icon": "BI Send"
